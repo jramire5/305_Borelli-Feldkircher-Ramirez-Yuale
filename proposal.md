@@ -21,8 +21,8 @@
 El proyecto consiste en la creación de un sistema pensado para la administración de edificios.Se piensa tanto para el administrador de consorcio como para los habitantes del edificio (Propietarios, inquilinos, etc.), como para el personal de manteniminto. El sistema permitirá gestionar el uso y mantenimiento de áreas comunes, pago y liquidación de expensas, reporte de incidentes y notificación de vencimientos.
 
 ### Modelo
-
-![imagen del modelo](tp\Modelo_TP_DSW_2026.png)
+- [Link al DrawIO](https://drive.google.com/file/d/17G7TQw0CAH9kGfG2kJk2CU70XJ0VoKV7/view?usp=sharing)
+![imagen del modelo](https://github.com/jramire5/305_Borelli-Feldkircher-Ramirez-Yuale/blob/59a64fa972607a3f841971d05abcdd8aa97fa4bd/ModeloTP2026.drawio.png)
 
 ## Alcance Funcional
 
