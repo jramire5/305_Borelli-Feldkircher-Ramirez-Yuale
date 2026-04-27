@@ -24,6 +24,7 @@ La plataforma permitirá gestionar el uso y mantenimiento de áreas comunes, la 
 
 ### Modelo
 - [Link al DrawIO](https://drive.google.com/file/d/17G7TQw0CAH9kGfG2kJk2CU70XJ0VoKV7/view?usp=sharing)
+
 ![imagen del modelo](https://github.com/jramire5/305_Borelli-Feldkircher-Ramirez-Yuale/blob/59a64fa972607a3f841971d05abcdd8aa97fa4bd/ModeloTP2026.drawio.png)
 
 ## Alcance Funcional
@@ -35,7 +36,7 @@ _Nota_: el siguiente es un ejemplo para un grupo de 3 integrantes para un sistem
 Regularidad:
 |Req|Detalle|
 |:-|:-|
-|CRUD simple|1. CRUD HOA<br>2. CRUD City<br>3. CRUD User|4. CRUD Unit_Type|5. CRUD Unit
+|CRUD simple|1. CRUD HOA<br>2. CRUD Unit<br>3. CRUD User|4. CRUD Unit_Type|5. CRUD Unit
 |CRUD dependiente|1. CRUD Unit_HOA {depende de} HOA, Unit<br>2. CRUD Cliente {depende de} CRUD Localidad|
 |Listado<br>+<br>detalle| 1. Listado de habitaciones filtrado por tipo de habitación, muestra nro y tipo de habitación => detalle CRUD Habitacion<br> 2. Listado de reservas filtrado por rango de fecha, muestra nro de habitación, fecha inicio y fin estadía, estado y nombre del cliente => detalle muestra datos completos de la reserva y del cliente|
 |CUU/Epic|1. Reportar Incidentes<br>2. Reservar espacios comunes|
