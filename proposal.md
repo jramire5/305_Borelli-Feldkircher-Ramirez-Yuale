@@ -18,7 +18,9 @@
 
 ### Descripción
 
-El proyecto consiste en la creación de un sistema pensado para la administración de edificios.Se piensa tanto para el administrador de consorcio como para los habitantes del edificio (Propietarios, inquilinos, etc.), como para el personal de manteniminto. El sistema permitirá gestionar el uso y mantenimiento de áreas comunes, pago y liquidación de expensas, reporte de incidentes y notificación de vencimientos.
+El proyecto consiste en un sistema orientado a la administración de edificios, diseñado tanto para administradores de consorcios como para los habitantes (propietarios e inquilinos) y el personal de mantenimiento.
+
+La plataforma permitirá gestionar el uso y mantenimiento de áreas comunes, la reserva de espacios compartidos, el reporte y seguimiento de incidencias y la administración de empleados.
 
 ### Modelo
 - [Link al DrawIO](https://drive.google.com/file/d/17G7TQw0CAH9kGfG2kJk2CU70XJ0VoKV7/view?usp=sharing)
