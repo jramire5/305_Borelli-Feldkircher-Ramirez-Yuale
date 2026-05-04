@@ -38,7 +38,7 @@ Regularidad:
 |:-|:-|
 |CRUD simple|1. CRUD EDIFICIO<br>2. CRUD UNIDAD<br>3. CRUD USUARIO<br>4. CRUD ROL|
 |CRUD dependiente|1. CRUD unidad_edificio {depende de} EDIFICIO y UNIDAD<br>2. CRUD admin_edificio {depende de} ADMINISTRACION y EDIFICIO|
-|Listado<br>+<br>detalle| 1. Listado de INCIDENCIAS filtrado por USUARIO, muestra id, estado y descripcion de la incidencia, y nombre y apellido del usuario => detalle CRUD INCIDENCIA<br> 2. Listado de reservas filtrado por rango de fecha, muestra nro de habitación, fecha inicio y fin estadía, estado y nombre del cliente => detalle muestra datos completos de la reserva y del cliente|
+|Listado<br>+<br>detalle| 1. Listado de INCIDENCIAS filtrado por USUARIO, muestra id, estado y descripcion de la incidencia, y nombre y apellido del usuario => detalle CRUD INCIDENCIA<br> 2. Listado de reservas filtrado por rango de fecha, muestra descripcion e id de unidad, fecha de reservacion, estado => detalle muestra datos completos de la reserva y del usuario|
 |CUU/Epic|1. Reportar Incidentes<br>2. Reservar espacios comunes|
 
 Adicionales para Aprobación
