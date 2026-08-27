@@ -12,7 +12,7 @@
 ### Repositorios
 
 - [frontend app](Falta crear)
-- [Backend](https://github.com/VlnFdk/TP-BACKEND.git)
+- [Backend](https://github.com/VlnFdk/TP-DSW-Back)
 
 ## Tema
 
