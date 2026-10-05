@@ -25,7 +25,8 @@ La plataforma permitirá gestionar el uso y mantenimiento de áreas comunes, la 
 ### Modelo
 - [Link al DrawIO](https://drive.google.com/file/d/17G7TQw0CAH9kGfG2kJk2CU70XJ0VoKV7/view?usp=sharing)
 
-- [Imagen del modelo]<img width="1274" height="697" alt="Modelo_TP_DSW_2026-Página-1 drawio" src="https://github.com/user-attachments/assets/33f994e2-c742-4ab4-8605-68d35d84035d" />
+- [Imagen del modelo]<<img width="1252" height="628" alt="Modelo_TP_DSW_2026)" src="https://github.com/user-attachments/assets/846e9a7b-ed34-423c-9d57-7c876d45c571" />
+>
 
 ## Alcance Funcional
 
@@ -36,7 +37,7 @@ _Nota_: el siguiente es un ejemplo para un grupo de 3 integrantes para un sistem
 Regularidad:
 |Req|Detalle|
 |:-|:-|
-|CRUD simple|1. CRUD EDIFICIO<br>2. CRUD UNIDAD<br>3. CRUD USUARIO<br>4. CRUD ROL|
+|CRUD simple|1. CRUD EDIFICIO<br>2. CRUD UNIDAD<br>3. CRUD USUARIO<br>4. CRUD ADMINISTRACIÓN|
 |CRUD dependiente|1. CRUD unidad_edificio {depende de} EDIFICIO y UNIDAD<br>2. CRUD admin_edificio {depende de} ADMINISTRACION y EDIFICIO|
 |Listado<br>+<br>detalle| 1. Listado de INCIDENCIAS filtrado por USUARIO, muestra id, estado y descripcion de la incidencia, y nombre y apellido del usuario => detalle CRUD INCIDENCIA<br> 2. Listado de reservas filtrado por rango de fecha, muestra descripcion e id de unidad, fecha de reservacion, estado => detalle muestra datos completos de la reserva y del usuario|
 |CUU/Epic|1. Reportar Incidentes<br>2. Reservar espacios comunes|
