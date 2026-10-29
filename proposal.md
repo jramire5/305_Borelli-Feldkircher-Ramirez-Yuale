@@ -25,8 +25,7 @@ La plataforma permitirá gestionar el uso y mantenimiento de áreas comunes, la 
 ### Modelo
 - [Link al DrawIO](https://drive.google.com/file/d/17G7TQw0CAH9kGfG2kJk2CU70XJ0VoKV7/view?usp=sharing)
 
-- [Imagen del modelo]<<img width="1252" height="628" alt="Modelo_TP_DSW_2026)" src="https://github.com/user-attachments/assets/846e9a7b-ed34-423c-9d57-7c876d45c571" />
->
+- [Imagen del modelo]<img width="1579" height="824" alt="image" src="https://github.com/user-attachments/assets/ed1e0c30-931d-45f1-819e-423c285817c3" />
 
 ## Alcance Funcional
 
