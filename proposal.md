@@ -31,8 +31,6 @@ La plataforma permitirá gestionar el uso y mantenimiento de áreas comunes, la 
 
 ### Alcance Mínimo
 
-_Nota_: el siguiente es un ejemplo para un grupo de 3 integrantes para un sistema de hotel. El
-
 Regularidad:
 |Req|Detalle|
 |:-|:-|
