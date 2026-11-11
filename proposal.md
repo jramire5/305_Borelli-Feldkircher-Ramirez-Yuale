@@ -1,4 +1,4 @@
-# Propuesta TP DSW
+# TP DSW: Vesta Administración de consorcios
 
 ## Grupo
 
@@ -20,12 +20,12 @@
 
 El proyecto consiste en un sistema orientado a la administración de edificios, diseñado tanto para administradores de consorcios como para los habitantes (propietarios e inquilinos) y el personal de mantenimiento.
 
-La plataforma permitirá gestionar el uso y mantenimiento de áreas comunes, la reserva de espacios compartidos, el reporte y seguimiento de incidencias y la administración de empleados.
+La plataforma permitirá gestionar la reserva de áreas comunes, el reporte y seguimiento de incidencias, la administración de empleados y la gestión de edificios y unidades.
 
 ### Modelo
 - [Link al DrawIO](https://drive.google.com/file/d/17G7TQw0CAH9kGfG2kJk2CU70XJ0VoKV7/view?usp=sharing)
 
-- [Imagen del modelo]<img width="1579" height="824" alt="image" src="https://github.com/user-attachments/assets/ed1e0c30-931d-45f1-819e-423c285817c3" />
+  <img width="1579" height="824" alt="image" src="https://github.com/user-attachments/assets/ed1e0c30-931d-45f1-819e-423c285817c3" />
 
 ## Alcance Funcional
 
@@ -42,8 +42,8 @@ Regularidad:
 Adicionales para Aprobación
 |Req|Detalle|
 |:-|:-|
-|CRUD |1. CRUD Tipo Habitacion<br>2. CRUD Servicio<br>3. CRUD Localidad<br>4. CRUD Provincia<br>5. CRUD Habitación<br>6. CRUD Empleado<br>7. CRUD Cliente|
-|CUU/Epic|1. Reservar una habitación para la estadía<br>2. Realizar el check-in de una reserva<br>3. Realizar el check-out y facturación de estadía y servicios|
+|CRUD |1. <br>2. <br>3. <br>4. <br>5. <br>6. <br>7. |
+|CUU/Epic|1. <br>2. <br>3. |
 
 
 ### Alcance Adicional Voluntario
@@ -52,6 +52,6 @@ Adicionales para Aprobación
 
 |Req|Detalle|
 |:-|:-|
-|Listados |1. Estadía del día filtrado por fecha muestra, cliente, habitaciones y estado <br>2. Reservas filtradas por cliente muestra datos del cliente y de cada reserve fechas, estado cantidad de habitaciones y huespedes|
-|CUU/Epic|1. Consumir servicios<br>2. Cancelación de reserva|
-|Otros|1. Envío de recordatorio de reserva por email|
+|Listados |1. <br>2. |
+|CUU/Epic|1. <br>2. |
+|Otros|1. |
